@@ -119,3 +119,25 @@ func (e *Euler) Problem_7() {
 	}
 	fmt.Println("The 10001 prime is ", index)
 }
+
+func (e *Euler) Problem_8() {
+	//solution for problem 8
+}
+func (e *Euler) Problem_9() {
+
+}
+func (e *Euler) Problem_10() {
+
+}
+func (e *Euler) Problem_11() {
+
+}
+func (e *Euler) Problem_12() {
+
+}
+func (e *Euler) Problem_13() {
+
+}
+func (e *Euler) Problem_14() {
+
+}
